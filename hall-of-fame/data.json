@@ -16,6 +16,14 @@
     "badge": "../badges/generated/nonsense3.svg"
   },
   {
+    "name": "Subrajoti Rajwar",
+    "github": "subrajotirajwar",
+    "website": "https://subrajotirajwar.github.io/owasp-jisu-commit-and-secure-workshop-2026",
+    "theme": "hacker",
+    "completed": true,
+    "badge": "../badges/generated/subrajotirajwar.svg"
+  },
+  {
     "name": "Divyanshu Jha",
     "github": "divyanshuj91",
     "website": "https://divyanshuj91.github.io/owasp-jisu-commit-and-secure-workshop-2026/",
